@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>Task 9</title>
+    <link rel="icon" type="image/x-icon" href="mulearn.jpg">
+  </head>
+
+  <body>
+    <h1>Favicon Added</h1>
+  </body>
+  
+</html>

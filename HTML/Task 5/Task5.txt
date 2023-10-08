@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Task 5</title>
+    <body>
+
+        <div>
+            <form>
+                <label for="t1">First name:</label><br>
+                <input type="text" id="t1" name="t1">
+                <br>
+                <label for="t2">Last name:</label><br>
+                <input type="text" id="t2" name="t2">
+                <br>
+                <input type="checkbox" id="r1" name="r1">
+                <label for="r1">Check me out</label>
+                <br>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    </body>
+</html>
